@@ -4,3 +4,6 @@ configparser
 os-sys
 random2
 asyncio
+aiohttp>=3.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
+mistune>=2.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pyyaml>=5.4 # not directly required, pinned by Snyk to avoid a vulnerability
