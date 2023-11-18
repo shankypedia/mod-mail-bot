@@ -1,49 +1,39 @@
-# Zyan Discord Bot
+# Mod Mail Bot
 
-Zyan is a simple Discord bot for handling modmail and related tasks.
+![Mod Mail Bot Logo](path/to/mod-mail-bot-logo.png)
+
+Mod Mail Bot is a Discord bot designed to facilitate private communication between users and server moderators. It allows users to send messages to moderators without directly messaging them, promoting a streamlined and organized moderation process.
 
 ## Features
 
-- Modmail functionality
-- Anti-spam measures
-- User ignoring/unignoring
-- ...
+- Private communication between users and moderators
+- Quick setup and easy configuration
+- Anti-spam measures to prevent abuse
+- Anonymous staff messages (configurable)
+- Support for attachments in messages
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/zyan-discord-bot.git
-   cd zyan-discord-bot
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Configure the bot:
-   - Copy `config.example.ini` to `config.ini`.
-   - Edit `config.ini` and add your Discord bot token and other settings.
-
-4. Run the bot:
-   ```bash
-   python zyan_bot.py
-   ```
+For detailed installation instructions, refer to the [Installation Guide](https://github.com/shankypedia/mod-mail-bot/wiki/Installation).
 
 ## Configuration
 
-- `config.ini`: Main configuration file.
-- `modmail_data.sqlite`: SQLite database for storing modmail and user ignore data.
+Learn how to configure and customize Mod Mail Bot to suit your server's needs. Check out the [Configuration Guide](https://github.com/shankypedia/mod-mail-bot/wiki/Configuration).
 
 ## Usage
 
-Once the bot is running and configured, it will handle modmail, anti-spam measures, and user ignoring/unignoring.
+Discover how to use Mod Mail Bot in your server. Read the [Usage Guide](https://github.com/shankypedia/mod-mail-bot/wiki/Usage) for tips and best practices.
 
 ## Contributing
 
-Feel free to contribute by opening issues or submitting pull requests. Contributions are welcome!
+Interested in contributing to Mod Mail Bot? Find out how you can contribute by reading the [Contributing Guide](https://github.com/shankypedia/mod-mail-bot/wiki/Contributing).
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Mod Mail Bot is licensed under the [MIT License](https://github.com/shankypedia/mod-mail-bot/wiki/License). Review the terms and conditions for using and contributing to the project.
+
+---
+
+**Note:** This README provides a brief overview of Mod Mail Bot. For in-depth information, detailed guides, and additional resources, visit the [GitHub Wiki](https://github.com/shankypedia/mod-mail-bot/wiki).
+
+Happy mod mailing!
