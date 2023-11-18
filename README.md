@@ -1,7 +1,5 @@
 # Mod Mail Bot
 
-![Mod Mail Bot Logo](path/to/mod-mail-bot-logo.png)
-
 Mod Mail Bot is a Discord bot designed to facilitate private communication between users and server moderators. It allows users to send messages to moderators without directly messaging them, promoting a streamlined and organized moderation process.
 
 ## Features
